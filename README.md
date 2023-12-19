@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KakaraDeepak
-- 👀 I’m interested in Data Science 
+- 👀 I’m interested in Data Science, Machine Learning and Artificial Intelligence. 
 - 🌱 I’m currently learning Data Science & AI
-- 💞️ I’m looking to collaborate on Data Analytics and Data Science projects
+- 💞️ I’m looking to collaborate on Data Analytics and Data Science, Machine learning and Artificial Intelligence.
 - 📫 How to reach me https://www.linkedin.com/in/kakara-deepak/
 
 <!---
